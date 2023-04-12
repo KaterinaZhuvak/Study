@@ -1,0 +1,56 @@
+* {
+    color: aqua;
+    /* font-size:40px;
+    font-weight: 600; */
+}
+
+p {
+    color: purple;
+}
+
+div {
+    background-color:darkgray;
+}
+
+.box {
+    color: aquamarine;
+    width: 300px;
+    height: 200px ;
+}
+
+.card {
+    width: 500px;
+    height: 200px;
+}
+
+#selector {
+    background-color: blue;
+}
+
+.btn {
+    background-color: aqua;
+    cursor: pointer;
+}
+
+h2 {
+    color: chartreuse;
+}
+.box > .line >.text {
+    color: black;
+}
+.box + .btn {
+    background-color: rebeccapurple;
+    color: black;
+    width: 200px;
+    height: 50px;
+}
+span {
+    color: coral;
+}
+input[type="text"] {
+     width: 300px;
+     height: 80px;
+     background-color: blueviolet;
+}
+
+    
